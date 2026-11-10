@@ -30,3 +30,5 @@ CREDITS:
 2.MACKERIA(TPT USER)
 
 END OF README
+
+MORE INFO:Mack_New_Elements_v11.26 file is the newest.
