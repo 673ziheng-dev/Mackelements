@@ -33,4 +33,4 @@ CREDITS:
 
 END OF README
 
-MORE INFO:Mack_New_Elements_v11.26UPGRADE file is the newest.
+MORE INFO:Mack_New_Elements_v11.26UPGRADED file is the newest.
